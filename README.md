@@ -22,3 +22,7 @@ To put in some subtle nods towards Matt and his love of Pi, I also hid Pi throug
 [3D Print Files](https://makerworld.com/en/models/2625039-flapulator-the-world-s-most-tactile-calculator#profileId-2897906)
 
 [Instructables Build Walkthrough](https://www.instructables.com/Flapulator-Pi-Centric-Fully-3D-Printable-and-World)
+
+# References
+"keypad.py" is my variation (switching row and column orientation/lookup to match my hardware diode layout) derived from the following repository:
+https://github.com/PerfecXX/MicroPython-SimpleKeypad
